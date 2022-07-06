@@ -8,7 +8,7 @@
 > e não se limitar somente a Rick and Morty.
 
 # Algumas screenshots da página inicial de login
-<img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/login.png?raw=true">
+<img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/login.png?raw=true" width="50%">
 <img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/login-nome.png?raw=true">
 
 # Algumas screenshots do game
@@ -16,7 +16,7 @@
 <img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/game-final.png?raw=true">
 
 # GIF mostrando um pouco do game em andamento
-<img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshots/gameplay.gif?raw=true">
+<img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/gameplay.gif?raw=true">
 
 ## History/Histórico
 Da uma olhada na aba [Releases](https://github.com/Rafadegolin/MemoryGame/releases) pra acompanhar as alterações feitas no projeto.
