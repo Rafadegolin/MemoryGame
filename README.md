@@ -6,6 +6,8 @@
 >
 > Este repositório representa a primeira versão dessa interface. Para o futuro, quero fazer na tela inicial uma opção para o jogador selecionar temas diferentes do jogo
 > e não se limitar somente a Rick and Morty.
+>
+> Link para jogar lá em baixo!!
 
 # Algumas screenshots da página inicial de login
 <img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/login.png?raw=true">
@@ -23,3 +25,6 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/MemoryGame/releas
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
+
+## Clique aqui para jogar:
+https://rafadegolin.github.io/MemoryGame/
