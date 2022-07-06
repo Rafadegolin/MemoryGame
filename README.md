@@ -8,6 +8,8 @@
 > e não se limitar somente a Rick and Morty.
 >
 > Link para jogar lá em baixo!!
+>
+> OBS: Pode não funcionar bem em alguns dispositivos móveis.
 
 # Algumas screenshots da página inicial de login
 <img src="https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/login.png?raw=true">
