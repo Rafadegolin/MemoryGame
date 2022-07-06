@@ -4,7 +4,8 @@
 >
 > Dentro do jogo ele captura o nome colocado na página inicial, e também o seu tempo gasto para finalizar o jogo.
 >
-> Este repositório representa a primeira versão dessa interface. Para o futuro, quero fazer na tela inicial uma opção para o jogador selecionar temas diferentes do jogo > e não se limitar somente a Rick and Morty.
+> Este repositório representa a primeira versão dessa interface. Para o futuro, quero fazer na tela inicial uma opção para o jogador selecionar temas diferentes do jogo
+> e não se limitar somente a Rick and Morty.
 
 # Algumas screenshots da página inicial de login
 <https://github.com/Rafadegolin/MemoryGame/blob/main/screenshot/login.png?raw=true>
