@@ -29,4 +29,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/MemoryGame/releas
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para jogar:
-https://rafadegolin.github.io/MemoryGame/
+[Memory Game](https://rafadegolin.github.io/MemoryGame/)
